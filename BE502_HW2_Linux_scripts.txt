@@ -1,0 +1,1 @@
+grep "$1-.*Good" phoenix_rain_14_23.txt | wc ;
